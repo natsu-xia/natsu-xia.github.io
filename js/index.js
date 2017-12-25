@@ -19,7 +19,7 @@ var S = {
             i = action.indexOf('?a=');
 
         S.Drawing.init('.canvas');
-        document.body.classList.add('body--ready');
+        // document.body.classList.add('body--ready');
 
         if (i !== -1) {
             S.UI.simulate(decodeURI(action).substring(i + 3));
@@ -35,7 +35,8 @@ var S = {
     }
 };
 
-function show() {
+function show()
+{
     window.location.href = "2.html";
 }
 
