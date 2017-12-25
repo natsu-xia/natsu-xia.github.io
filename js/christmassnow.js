@@ -32,7 +32,7 @@
                 var number5 = 17 + Math.floor(Math.random() * 4);
                 var content;
 
-                // alert(imageSize);
+                alert(imageSize);
                 if (settings.snowflakesize === 1) {
                     var imageSize = Math.floor(Math.random() * 30);
                 }
