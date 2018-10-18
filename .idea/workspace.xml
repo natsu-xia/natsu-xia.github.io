@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f404ab2b-8ec1-4025-a318-11f9d4d36cf8" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index0.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +17,8 @@
       <file leaf-file-name="wallpaper_cn.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/private/wallpaper/wallpaper_cn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+            <state relative-caret-position="525">
+              <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -28,28 +27,18 @@
       <file leaf-file-name="cpudetector_cn.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/private/cpudetector/cpudetector_cn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="1095">
               <caret line="73" column="152" lean-forward="false" selection-start-line="73" selection-start-column="147" selection-end-line="73" selection-end-column="152" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wallpaper_en.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="wallpaper_en.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/private/wallpaper/wallpaper_en.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index0.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index0.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+            <state relative-caret-position="555">
+              <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -109,6 +98,7 @@
         <option value="$PROJECT_DIR$/private/cpudetector/cpudetector_en.html" />
         <option value="$PROJECT_DIR$/private/wallpaper/wallpaper_cn.html" />
         <option value="$PROJECT_DIR$/private/wallpaper/wallpaper_en.html" />
+        <option value="$PROJECT_DIR$/private/avatar/avatar_cn.html" />
       </list>
     </option>
   </component>
@@ -142,6 +132,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -154,9 +145,40 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="natsu-xia.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="natsu-xia.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="private" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="natsu-xia.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="natsu-xia.github.io" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="private" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="avatar" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -269,15 +291,24 @@
       <workItem from="1514172439000" duration="5603000" />
       <workItem from="1527937692661" duration="739000" />
       <workItem from="1539670138434" duration="4107000" />
-      <workItem from="1539757328571" duration="801000" />
+      <workItem from="1539757328571" duration="879000" />
+      <workItem from="1539845608985" duration="242000" />
     </task>
+    <task id="LOCAL-00001" summary="新增avatar隐私条款">
+      <created>1539845752543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1539845752543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11685000" />
+    <option name="totallyTimeSpent" value="12005000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="974" extended-state="0" />
+    <frame x="0" y="23" width="1920" height="974" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17135416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -305,16 +336,51 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新增avatar隐私条款" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增avatar隐私条款" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/private/wallpaper/wallpaper_cn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/cpudetector/cpudetector_cn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="152" lean-forward="false" selection-start-line="73" selection-start-column="147" selection-end-line="73" selection-end-column="152" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/wallpaper/wallpaper_en.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="29" lean-forward="true" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -330,7 +396,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2115">
           <caret line="141" column="51" lean-forward="true" selection-start-line="141" selection-start-column="51" selection-end-line="141" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -345,7 +410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -361,9 +425,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -371,7 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -400,9 +460,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -463,9 +520,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
           <caret line="35" column="33" lean-forward="false" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -473,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -488,7 +541,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -523,7 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
           <caret line="57" column="29" lean-forward="false" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -531,7 +582,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="313">
           <caret line="141" column="51" lean-forward="false" selection-start-line="141" selection-start-column="51" selection-end-line="141" selection-end-column="51" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,7 +592,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/private/cpudetector/cpudetector_cn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="1095">
           <caret line="73" column="152" lean-forward="false" selection-start-line="73" selection-start-column="147" selection-end-line="73" selection-end-column="152" />
           <folding />
         </state>
@@ -550,24 +600,117 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/private/wallpaper/wallpaper_cn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+        <state relative-caret-position="525">
+          <caret line="35" column="43" lean-forward="false" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/private/avatar/avatar_cn.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="33" column="100" lean-forward="false" selection-start-line="33" selection-start-column="100" selection-end-line="33" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#strong#0;n#div#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#3;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#5;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#5;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#7;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#strong#0;n#p#7;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#8;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#ol#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#0;n#ol#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#ol#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#ol#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#2;n#ol#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#ol#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#ol#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#4;n#ol#0;n#ol#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1539845662000" expanded="false" signature="2965:2984" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="3060:3079" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="3149:3178" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="3258:3277" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="3353:3372" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="3387:3415" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="3623:3642" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="3734:3753" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="3831:3860" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="3951:3970" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4034:4053" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4068:4096" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4224:4243" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4307:4326" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4380:4409" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4495:4514" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4580:4599" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4614:4642" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4762:4781" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4846:4865" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="4919:4948" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5034:5053" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5119:5138" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5153:5181" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5297:5316" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5380:5399" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5414:5442" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5572:5591" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5656:5675" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5753:5782" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5872:5891" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="5986:6005" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="6051:6079" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="6364:6383" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="6459:6478" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="6524:6552" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="6789:6808" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="6872:6891" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="6926:6954" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7037:7056" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7121:7140" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7155:7183" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7257:7276" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7341:7360" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7375:7403" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7477:7496" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7561:7580" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7615:7643" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7721:7740" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7805:7824" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7839:7867" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="7976:7995" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8060:8079" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8114:8142" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8225:8244" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8309:8328" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8343:8371" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8411:8430" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8504:8523" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8575:8594" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8609:8637" ph="..." />
+            <marker date="1539845662000" expanded="false" signature="8673:8692" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index0.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/private/wallpaper/wallpaper_en.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="35" column="43" lean-forward="true" selection-start-line="35" selection-start-column="43" selection-end-line="35" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index0.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+        <state relative-caret-position="555">
+          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
           <folding />
         </state>
       </provider>
