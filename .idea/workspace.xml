@@ -3,7 +3,63 @@
   <component name="ChangeListManager">
     <list default="true" id="f404ab2b-8ec1-4025-a318-11f9d4d36cf8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-03-25-测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-25-测试.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/10/10/iOS-手势与变形/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/10/18/Xcode-Debug-大全/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/10/26/JSON-转模型-For-YYModel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/11/15/iOS噪音计模型/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/11/28/Objective-C-RunLoop/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/12/01/快速添加圆角和描边/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/12/07/忽略-Xcode8-中的注释警告/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/12/13/定时器你真的会使用吗/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/12/21/Objective-C-Category/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2016/12/26/ReactiveCocoa-基础/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/01/06/ReactiveCocoa-进阶/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/04/BYPhoneNumTF/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/04/Hello-2017/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/04/Objective-C-Runtime-基本使用/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/04/Objective-C-Runtime详解/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/06/Mac快速调出终端/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/06/快速搭建个人博客/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/14/随便聊聊/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/15/Git指令整理/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/15/Mac-文本转音频/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/16/Git-代码回滚/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/22/Mac-文件的隐藏与显示/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/02/22/使用-.gitignore-忽略-git-仓库中的文件/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/01/Xcode-控制台输出中文/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/06/Swift-代理模式/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/07/文件目录树状(tree)显示/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/08/CocoaPods公有仓库的创建/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/10/CocoaPods私有仓库的创建/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/17/Mac终端(zsh)下用代码编辑器打开文件或目录/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/23/AsyncDisplayKit-2.0-教程-入门-译/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/03/30/Swift-3.1-的新变化-译/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/04/07/强化-Swift-中的-print/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/04/13/CocoaPods-安装和使用/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/04/20/iOS自动打包/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/04/28/RVM-使用指南/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/05/03/Swift-的懒加载和计算型属性/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/05/04/R.swift-的使用/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/05/05/在-Swift-中使用-IBInspectable/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/06/19/快速配置zsh/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/04/Xcode9-无线调试功能/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/10/体能训练理论-之功能性/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/10/体能训练理论-之动力链/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/10/体能训练理论-之金字塔/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/19/Swift的HMAC和SHA1加密/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/24/iTunes-Connect-构建版本不显示/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/07/26/利用-Debug-Memory-Graph-检测内测泄漏/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/09/11/Swift-4-新特性/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/10/04/GCD-在-Swift-中的用法/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/12/19/为博客添加-Gitalk-评论插件/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2017/12/26/从一道网易面试题浅谈-Tagged-Pointer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/01/04/柔术最大的谎言-译/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/05/05/Xcode命令行工具管理/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2018/06/05/5分钟带你看完-WWDC-2018/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +129,8 @@
       <workItem from="1548595378585" duration="474000" />
       <workItem from="1585141529602" duration="700000" />
       <workItem from="1585142399109" duration="982000" />
-      <workItem from="1585143883372" duration="4976000" />
+      <workItem from="1585143883372" duration="5346000" />
+      <workItem from="1585150959059" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="新增avatar隐私条款">
       <created>1539845752543</created>
@@ -94,10 +151,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增avatar隐私条款" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="49" width="683" height="729" key="find.popup" timestamp="1585150194300">
+    <state x="378" y="49" width="683" height="729" key="find.popup" timestamp="1585151313138">
       <screen x="0" y="23" width="1440" height="781" />
     </state>
-    <state x="378" y="49" width="683" height="729" key="find.popup/0.23.1440.781@0.23.1440.781" timestamp="1585150194300" />
+    <state x="378" y="49" width="683" height="729" key="find.popup/0.23.1440.781@0.23.1440.781" timestamp="1585151313138" />
     <state x="378" y="49" width="683" height="734" key="find.popup/0.23.1440.786@0.23.1440.786" timestamp="1585145900474" />
     <state x="385" y="187" key="run.anything.popup" timestamp="1585143291062">
       <screen x="0" y="23" width="1440" height="781" />
