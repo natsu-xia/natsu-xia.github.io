@@ -109,11 +109,7 @@
       <path value="" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="785" />
-  </component>
+  <component name="ProjectId" id="1ZcbrWQQoVzdfzQUNrcNqU4ooOW" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -145,9 +141,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -163,13 +159,14 @@
   </component>
   <component name="RunManager">
     <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/api/index.php" />
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+    <configuration default="true" type="js.build_tools.gulp">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
+      <method v="2" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -238,6 +235,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增avatar隐私条款" />
     <option name="LAST_COMMIT_MESSAGE" value="新增avatar隐私条款" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="385" y="128" width="670" height="676" key="search.everywhere.popup" timestamp="1585141675731">
+      <screen x="0" y="23" width="1440" height="781" />
+    </state>
+    <state x="385" y="128" width="670" height="676" key="search.everywhere.popup/0.23.1440.781@0.23.1440.781" timestamp="1585141675731" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/private/private.html">
