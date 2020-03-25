@@ -4,6 +4,7 @@
     <list default="true" id="f404ab2b-8ec1-4025-a318-11f9d4d36cf8" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +75,7 @@
       <workItem from="1585141529602" duration="700000" />
       <workItem from="1585142399109" duration="982000" />
       <workItem from="1585143883372" duration="5346000" />
-      <workItem from="1585150959059" duration="559000" />
+      <workItem from="1585150959059" duration="728000" />
     </task>
     <task id="LOCAL-00001" summary="新增avatar隐私条款">
       <created>1539845752543</created>
@@ -95,10 +96,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增avatar隐私条款" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="49" width="683" height="729" key="find.popup" timestamp="1585151406513">
+    <state x="378" y="49" width="683" height="729" key="find.popup" timestamp="1585151658968">
       <screen x="0" y="23" width="1440" height="781" />
     </state>
-    <state x="378" y="49" width="683" height="729" key="find.popup/0.23.1440.781@0.23.1440.781" timestamp="1585151406513" />
+    <state x="378" y="49" width="683" height="729" key="find.popup/0.23.1440.781@0.23.1440.781" timestamp="1585151658968" />
     <state x="378" y="49" width="683" height="734" key="find.popup/0.23.1440.786@0.23.1440.786" timestamp="1585145900474" />
     <state x="385" y="187" key="run.anything.popup" timestamp="1585143291062">
       <screen x="0" y="23" width="1440" height="781" />
