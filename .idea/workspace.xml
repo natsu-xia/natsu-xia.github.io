@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f404ab2b-8ec1-4025-a318-11f9d4d36cf8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-03-25-测试.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-03-25-测试.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-03-25-测试.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <workItem from="1548595378585" duration="474000" />
       <workItem from="1585141529602" duration="700000" />
       <workItem from="1585142399109" duration="982000" />
-      <workItem from="1585143883372" duration="4730000" />
+      <workItem from="1585143883372" duration="4976000" />
     </task>
     <task id="LOCAL-00001" summary="新增avatar隐私条款">
       <created>1539845752543</created>
@@ -94,10 +94,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增avatar隐私条款" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="49" width="683" height="729" key="find.popup" timestamp="1585149767570">
+    <state x="378" y="49" width="683" height="729" key="find.popup" timestamp="1585150194300">
       <screen x="0" y="23" width="1440" height="781" />
     </state>
-    <state x="378" y="49" width="683" height="729" key="find.popup/0.23.1440.781@0.23.1440.781" timestamp="1585149767570" />
+    <state x="378" y="49" width="683" height="729" key="find.popup/0.23.1440.781@0.23.1440.781" timestamp="1585150194300" />
     <state x="378" y="49" width="683" height="734" key="find.popup/0.23.1440.786@0.23.1440.786" timestamp="1585145900474" />
     <state x="385" y="187" key="run.anything.popup" timestamp="1585143291062">
       <screen x="0" y="23" width="1440" height="781" />
