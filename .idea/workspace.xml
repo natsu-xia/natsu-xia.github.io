@@ -2,184 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f404ab2b-8ec1-4025-a318-11f9d4d36cf8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/05/1355ee753cf6596583507bffb324bf078115b44531821295bfb0037a280bc7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/06/ad0e665d26397370b25aba0a565e465114ffe3def81efaeeb76c31d03fe1ac" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/08/99cd9fb8d7beac8e1360647786492b0eae5a90e609fc3560b1733111c840fb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/13/5156076778bd9fafb5216b73c2a5bc4610ba1243f18fcf31e447a80f92f06c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/16/ce5bd5125a73b0563687cb0dabcc53640db0257357c866d24ec80388ec4502" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/22/8856804db2707fc35ddcda1636a28d5b44c9aee39118792b0d1bf03474c0fb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/24/490cc4bdfef77b5f0309e3a28b069fa1eea629cc00c3a8d5d2e2ad50243d95" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/28/01e22b72542002926c953f60411962bfabe756aeb1086ace8b68b146c48c77" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2a/4c3316f5e6c6937556163c9a12ca1a37d2127dfdf29db730d856bf3707fb0e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/2c/525b15b451d43073b93beed8a8a4e4d72211b9233ad577f82f4e72a2a32d3c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/30/c055633febc6b8cbbe19e853ef1d6a98e6f0bf54bc7146b8b081d2f939a996" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/31/0c9bf0b6e48a73c1b754f062a040edca65ffff2fc4f01c3678493a88c9c1c8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/35/b0c5ec0cf8e2c23e4d7c4f112426dbbadd74b4152f8c4f464885171ec79188" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3c/282965690e986cc0fa0ebce0e10a6557fbf66af5432bbd6917973a90d00823" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3d/1fad6496988334379a40ca3d8bb52793ab69dae8667406c39ab1ebc5db07c6" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3f/25f4cc02d5e226bf50c28daea301bfae830d105dc8a3778bbe9a39d11d7a11" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/41/5204fdc82a020a4c98d6465d8487102e1aeeb7902b157087151c400b1276de" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5c/47c413a33470ee7cfddacd9cefb6ffc8897c279bf87a7ed59dd2bf62c41242" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5f/5f20e09d840efd4edf5e9bcbf0867e80c6a431c99e483ad4265a8c56bd1961" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/61/b0f530274cf6948bebf9c8e26251bafd830763c23c119623d0999368aa67d8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/65/ada53e6fc8d67a38a612a725dff25a49790e765e6ad1001f33cf02d76a8ad0" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/68/6b855d42c37d1bd83b4537675f4a4e924e9ba5495febe1e5bb59e12789808a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6c/204c27031749122f35fc7a9e3664efb4a27c55f5c7e3bd19572cff9adc2062" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6c/e9d1f93b7ca056ad4ebf89a5c1384e7f5c2a82091aeb6166aea5cf43154623" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6d/297f4de81d838213f27b24e7435d25444731a76fe67def176938dbd0449abf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6d/482cb3059e31d4340917c65f5bf6b32e9f3d548ea3bc3c0515c85425ddd7a2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/6f/9a3993f344c170ba144e4c00b420140ceebe43fb406d8c8673151520060004" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/75/5887c7223bdc5f135403e4d419d330daa4c69b971ec2ce57a7c251029b2c2b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7a/26287c388ed1af62b71a5792bb9406cd84c7c7990b70b32e522a4d226c7a7f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7c/6808cbd010cf297659678d7f73c698bbe6bfc93e3f863516f9556a54f6c0ae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/80/680679db7dbefa24c354f7013693262190d54c80fde55e21d09581afa49d6d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/84/b71517be43f2fef07c1ddf1e22b41567a4676200a6aace1c7140dd2a94afae" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/89/f3545c47b93cf4f817ebab26d8df97f0a89387d5da292d3ec4a1518a95fa01" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9b/f57d2dce13f007073c285aefe2789087c2f28a7d7efa75210cac1fd07c83ff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a9/af43cc6f02f7e9793d641e52e451f270d5e7dc29b8f189e60a27d6081d1204" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ae/69e922cb26cfb923c722098b6061cecf9e4eaef5d17284b15e0a3951580c72" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b6/0da96f4b11034fcb2470b69a74e68e644fb961ee0b5c2c8aaea744d99115fd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b6/ffd6430891f01a8b625df82ed078c0a29a8b8b4643b4a94f58041f277c3fe7" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/b9/755def0eb15a2a2388492d9760d986980b8ac9c11df21aa99276d188acb8da" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ba/b6e37f67f1d9292101005fb4c13b92ded7d220d137bc66bbbc6e2a27df235e" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/bf/1736ffbd65d0ee5505cb24e8b627e7fa27648fe7db6b50449c4ada689bcc21" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c5/6f98de3402fd2b266fd323429564dce3461a5d38aa275ce632d492d321c411" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c7/3c8e863bdf028768a9039cc4750bfc4e147524604de2743e455aef66c71cdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c9/09b87a3efe9b1d2d9754c2078ca5803babae0efaf85948c2ae12e8d2834a77" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ce/0d21633cbd2f41a5fb41ff5fd90315e61929fd5659eaa5873631aa86b13e3d" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/dc/e3c47c50cd4d0e0e5a3905ffefc0028853ff7ac3355dca535276835f24d204" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e1/2b14bfd4143427728fcead47119d4f5cda08b8a581baf2dae27632afb82c59" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e2/e8b3b3555c90f6ae9a1c19e51e2b8232a0d1b5b16840fa7828fdca0775fb8b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e7/c2535ca835c48597f20d584b5f66c921d82abf1986566129e2d8e0133ee803" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e8/6dc2c2d685f9078bd71b91fc11fc79b6331414e28f822d23957ddb1582d58b" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e9/feb36e9ed8bf7f90b9b918471a86511ecb10749aba0242d5b7a0aa78b58088" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f2/2fa78e8665eb7b53f194c1b3228ebef713c241120f9cfe02d46f96555d7ba3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f5/ba976c77c9ea19e36fe68cc209577e8adedbbfe1d57ffd3f3a829a80e30457" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/img/about-XN.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/avatar/avatar.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/avatar/avatar_cn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/cpudetector/cpudetector.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/cpudetector/cpudetector_cn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/cpudetector/cpudetector_en.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/mtx/mtx.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/mtx/mtx.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/private.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/wallpaper/wallpaper.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/wallpaper/wallpaper_cn.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/private/wallpaper/wallpaper_en.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/pwa/icons/icon_128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/pwa/icons/icon_512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/api/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/css/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/css/style2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/github-markdown.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/background1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/background2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/photos/1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/photos/2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/photos/3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/photos/4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/photos/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/img/snowflake9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/index0.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/js/anim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/js/christmassnow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/js/jquery-1.10.2.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_site/wdd/js/jquery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/10/10/iOS-手势与变形/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/10/10/iOS-手势与变形/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/10/18/Xcode-Debug-大全/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/10/18/Xcode-Debug-大全/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/10/26/JSON-转模型-For-YYModel/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/10/26/JSON-转模型-For-YYModel/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/11/15/iOS噪音计模型/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/11/15/iOS噪音计模型/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/11/28/Objective-C-RunLoop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/11/28/Objective-C-RunLoop/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/12/01/快速添加圆角和描边/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/12/01/快速添加圆角和描边/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/12/07/忽略-Xcode8-中的注释警告/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/12/07/忽略-Xcode8-中的注释警告/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/12/13/定时器你真的会使用吗/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/12/13/定时器你真的会使用吗/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/12/21/Objective-C-Category/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/12/21/Objective-C-Category/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2016/12/26/ReactiveCocoa-基础/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2016/12/26/ReactiveCocoa-基础/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/01/06/ReactiveCocoa-进阶/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/01/06/ReactiveCocoa-进阶/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/04/BYPhoneNumTF/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/04/BYPhoneNumTF/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/04/Hello-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/04/Hello-2017/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/04/Objective-C-Runtime-基本使用/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/04/Objective-C-Runtime-基本使用/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/04/Objective-C-Runtime详解/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/04/Objective-C-Runtime详解/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/06/Mac快速调出终端/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/06/Mac快速调出终端/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/06/快速搭建个人博客/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/06/快速搭建个人博客/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/14/随便聊聊/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/14/随便聊聊/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/15/Git指令整理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/15/Git指令整理/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/15/Mac-文本转音频/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/15/Mac-文本转音频/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/16/Git-代码回滚/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/16/Git-代码回滚/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/22/Mac-文件的隐藏与显示/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/22/Mac-文件的隐藏与显示/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/02/22/使用-.gitignore-忽略-git-仓库中的文件/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/02/22/使用-.gitignore-忽略-git-仓库中的文件/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/03/01/Xcode-控制台输出中文/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/03/01/Xcode-控制台输出中文/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/03/06/Swift-代理模式/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/03/06/Swift-代理模式/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/03/07/文件目录树状(tree)显示/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/03/07/文件目录树状(tree)显示/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/03/08/CocoaPods公有仓库的创建/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/03/08/CocoaPods公有仓库的创建/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/03/10/CocoaPods私有仓库的创建/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/03/10/CocoaPods私有仓库的创建/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/03/17/Mac终端(zsh)下用代码编辑器打开文件或目录/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/03/17/Mac终端(zsh)下用代码编辑器打开文件或目录/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/03/23/AsyncDisplayKit-2.0-教程-入门-译/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/03/23/AsyncDisplayKit-2.0-教程-入门-译/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/03/30/Swift-3.1-的新变化-译/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/03/30/Swift-3.1-的新变化-译/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/04/07/强化-Swift-中的-print/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/04/07/强化-Swift-中的-print/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/04/13/CocoaPods-安装和使用/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/04/13/CocoaPods-安装和使用/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/04/20/iOS自动打包/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/04/20/iOS自动打包/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/04/28/RVM-使用指南/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/04/28/RVM-使用指南/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/05/03/Swift-的懒加载和计算型属性/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/05/03/Swift-的懒加载和计算型属性/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/05/04/R.swift-的使用/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/05/04/R.swift-的使用/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/05/05/在-Swift-中使用-IBInspectable/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/05/05/在-Swift-中使用-IBInspectable/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/06/19/快速配置zsh/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/06/19/快速配置zsh/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/07/04/Xcode9-无线调试功能/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/07/04/Xcode9-无线调试功能/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/07/10/体能训练理论-之功能性/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/07/10/体能训练理论-之功能性/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/07/10/体能训练理论-之动力链/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/07/10/体能训练理论-之动力链/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/07/10/体能训练理论-之金字塔/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/07/10/体能训练理论-之金字塔/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/07/19/Swift的HMAC和SHA1加密/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/07/19/Swift的HMAC和SHA1加密/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/07/24/iTunes-Connect-构建版本不显示/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/07/24/iTunes-Connect-构建版本不显示/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/07/26/利用-Debug-Memory-Graph-检测内测泄漏/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/07/26/利用-Debug-Memory-Graph-检测内测泄漏/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/09/11/Swift-4-新特性/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/09/11/Swift-4-新特性/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/10/04/GCD-在-Swift-中的用法/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/10/04/GCD-在-Swift-中的用法/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/12/19/为博客添加-Gitalk-评论插件/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/12/19/为博客添加-Gitalk-评论插件/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2017/12/26/从一道网易面试题浅谈-Tagged-Pointer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2017/12/26/从一道网易面试题浅谈-Tagged-Pointer/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/01/04/柔术最大的谎言-译/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/01/04/柔术最大的谎言-译/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/05/05/Xcode命令行工具管理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/05/05/Xcode命令行工具管理/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/2018/06/05/5分钟带你看完-WWDC-2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2018/06/05/5分钟带你看完-WWDC-2018/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/_site/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/img/about-BY-gentle.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/offline.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/offline.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pwa/icons/pwa_icon_128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pwa/icons/pwa_icon_512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/pwa/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pwa/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,7 +73,7 @@
       <workItem from="1548595378585" duration="474000" />
       <workItem from="1585141529602" duration="700000" />
       <workItem from="1585142399109" duration="982000" />
-      <workItem from="1585143883372" duration="2377000" />
+      <workItem from="1585143883372" duration="2488000" />
     </task>
     <task id="LOCAL-00001" summary="新增avatar隐私条款">
       <created>1539845752543</created>
@@ -270,10 +94,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="新增avatar隐私条款" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="49" width="683" height="734" key="find.popup" timestamp="1585145900474">
-      <screen x="0" y="23" width="1440" height="786" />
+    <state x="378" y="49" width="683" height="729" key="find.popup" timestamp="1585147402225">
+      <screen x="0" y="23" width="1440" height="781" />
     </state>
-    <state x="378" y="49" width="683" height="729" key="find.popup/0.23.1440.781@0.23.1440.781" timestamp="1585145342184" />
+    <state x="378" y="49" width="683" height="729" key="find.popup/0.23.1440.781@0.23.1440.781" timestamp="1585147402225" />
     <state x="378" y="49" width="683" height="734" key="find.popup/0.23.1440.786@0.23.1440.786" timestamp="1585145900474" />
     <state x="385" y="187" key="run.anything.popup" timestamp="1585143291062">
       <screen x="0" y="23" width="1440" height="781" />
